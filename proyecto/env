@@ -1,0 +1,14 @@
+# This is a file holding the environment variables to configure your project.
+# feel free to change them according to your actual configuration. In order to
+# load the variables in your shell, please type `source env`. If you're using
+# PyCharm, you can use the "Env File" plugin to load this file automatically
+# into your running environment.
+
+set -a
+
+DEBUG=yes
+
+BERNARD_SETTINGS_FILE=
+BERNARD_BASE_URL=
+WEBVIEW_SECRET_KEY=
+TELEGRAM_TOKEN=
